@@ -1,0 +1,6 @@
+*.zip
+*.pth
+final_work/captions.txt
+final_work/Images
+dataset/MNIST
+实验四/dataset
